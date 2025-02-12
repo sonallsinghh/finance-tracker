@@ -1,7 +1,5 @@
 package com.sonal.finance.DTO;
-
 import com.sonal.finance.entity.EntryType;
-
 import java.time.LocalDate;
 
 public class EntryRequestDTO {

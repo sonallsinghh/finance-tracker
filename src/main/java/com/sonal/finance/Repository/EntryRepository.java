@@ -4,7 +4,6 @@ import com.sonal.finance.entity.Entry;
 import com.sonal.finance.entity.EntryType;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-
 import java.time.LocalDate;
 import java.util.List;
 
